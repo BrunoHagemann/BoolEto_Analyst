@@ -1,0 +1,4 @@
+echo("Iniciando a leitura de boletos...")
+bills_process("teste.png")
+bills_search("todos")
+echo("Fim do processo automatizado!")
